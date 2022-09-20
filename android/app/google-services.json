@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546446029278",
+    "project_id": "message-app-beneficiario",
+    "storage_bucket": "message-app-beneficiario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546446029278:android:6cad87705b0c456d6ded4f",
+        "android_client_info": {
+          "package_name": "com.br.iamspe.appbeneficiario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546446029278-cr1f8ia4d3hn12oot047srq5vk6sqtcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2n46cdMwS6_9ZgQN6-OQFQse3ILGrwzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546446029278-cr1f8ia4d3hn12oot047srq5vk6sqtcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
